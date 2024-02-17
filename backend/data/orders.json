@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 4
+      }
+    ],
+    "customer": {
+      "name": "imane azza",
+      "email": "imane.azza.1995@gmail.com",
+      "street": "14 Av. Omar Ibn Al Khattab, Rabat",
+      "postal-code": "10090",
+      "city": "RABAT - Agdal"
+    },
+    "id": "807.1313155146045"
+  }
+]
